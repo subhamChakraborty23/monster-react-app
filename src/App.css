@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  font-family: 'Bigelow Rules';
+  font-size: 72px;
+  color: rgb(127, 37, 211);
+}
+
+p{
+  font-family: 'Bigelow Rules';
+  font-size: 30px;
+  color: rgb(173, 14, 147);
+
+}
